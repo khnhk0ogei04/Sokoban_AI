@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/SOKOBAN_AI.iml" filepath="$PROJECT_DIR$/.idea/SOKOBAN_AI.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sokoban_AI.iml" filepath="$PROJECT_DIR$/.idea/Sokoban_AI.iml" />
+>>>>>>> ac3b361 (update project)
     </modules>
   </component>
 </project>

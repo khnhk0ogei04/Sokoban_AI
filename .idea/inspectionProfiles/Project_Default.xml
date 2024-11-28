@@ -4,6 +4,7 @@
     <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredPackages">
         <value>
+<<<<<<< HEAD
           <list size="6">
             <item index="0" class="java.lang.String" itemvalue="pillow" />
             <item index="1" class="java.lang.String" itemvalue="numpy" />
@@ -11,6 +12,11 @@
             <item index="3" class="java.lang.String" itemvalue="scikit_learn" />
             <item index="4" class="java.lang.String" itemvalue="matplotlib" />
             <item index="5" class="java.lang.String" itemvalue="opencv_python" />
+=======
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="pillow" />
+            <item index="1" class="java.lang.String" itemvalue="numpy" />
+>>>>>>> ac3b361 (update project)
           </list>
         </value>
       </option>
